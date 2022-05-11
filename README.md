@@ -5,8 +5,10 @@ The purpose of this project is to develop a program capable of representing a pl
 
 By pressing <i>Y</i> in your keyboard, you can see them rotating.
 
-## Demo
-![screen-gif](./solar-system-running.gif)
+## Preview
+<p align="center">
+  <img src="./solar-system-running.gif" alt="My Project GIF" width="752" height="470" align="center">
+</p>
 
 ## Compile and execute
 ```
